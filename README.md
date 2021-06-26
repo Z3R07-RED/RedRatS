@@ -1,5 +1,5 @@
 <p align="center">
-<img src="CS07/images/RedRatS.png" alt="RedRatS" style="float: left; margin-right: 10px;" />
+<img src="CS07/images/RedRatS.jpg" alt="RedRatS" style="float: left; margin-right: 10px;" />
 </p>
 
 Esta herramienta requiere la apk termux-api para su correcto funcionamiento.
