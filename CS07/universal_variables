@@ -1,0 +1,16 @@
+# This file contains universal variable definitions.
+program_name="RedRatS"
+making="Jun 23 2021"
+author="Z3R07-RED"
+version="1.0.0"
+PWD=$(pwd)
+#Directory
+log_directory="logs"
+tmp_directory="tmp"
+config_directory=".config"
+CS07="CS07"
+converter_tool="CS07/Converter07"
+#Files
+colors="${CS07}/colors"
+
+#Coded by Club Secreto 07
