@@ -266,6 +266,7 @@ done
 }
 
 dependencies
+internet_connection
 
 while true :
 do
